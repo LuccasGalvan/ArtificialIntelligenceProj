@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1699874210 source:c:\users\frede\onedrive\ambiente de trabalho\semestre 1\iia\pr¡tica\ficha6\iia_ficha6_codigo_inicio-codigoonly\codigotrepacolinas\algoritmo.c
+	<stdio.h>
+	<stdlib.h>
+	"algoritmo.h"
+	"funcao.h"
+	"utils.h"
+
+1699874210 c:\users\frede\onedrive\ambiente de trabalho\semestre 1\iia\pr¡tica\ficha6\iia_ficha6_codigo_inicio-codigoonly\codigotrepacolinas\algoritmo.h
+
+1699874210 c:\users\frede\onedrive\ambiente de trabalho\semestre 1\iia\pr¡tica\ficha6\iia_ficha6_codigo_inicio-codigoonly\codigotrepacolinas\funcao.h
+
+1699874210 c:\users\frede\onedrive\ambiente de trabalho\semestre 1\iia\pr¡tica\ficha6\iia_ficha6_codigo_inicio-codigoonly\codigotrepacolinas\utils.h
+
+1699874210 source:c:\users\frede\onedrive\ambiente de trabalho\semestre 1\iia\pr¡tica\ficha6\iia_ficha6_codigo_inicio-codigoonly\codigotrepacolinas\funcao.c
+	"funcao.h"
+
+1699874210 source:c:\users\frede\onedrive\ambiente de trabalho\semestre 1\iia\pr¡tica\ficha6\iia_ficha6_codigo_inicio-codigoonly\codigotrepacolinas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"algoritmo.h"
+	"utils.h"
+
+1699874210 source:c:\users\frede\onedrive\ambiente de trabalho\semestre 1\iia\pr¡tica\ficha6\iia_ficha6_codigo_inicio-codigoonly\codigotrepacolinas\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+

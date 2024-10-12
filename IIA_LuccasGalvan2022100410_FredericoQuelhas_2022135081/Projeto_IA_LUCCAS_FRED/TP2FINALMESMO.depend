@@ -1,0 +1,199 @@
+# depslib dependency file v1.0
+1702760389 source:c:\users\frede\onedrive\ambiente de trabalho\semestre 1\tp2finalmesmo\algoritmo.c
+	"algoritmo.h"
+
+1702760597 c:\users\frede\onedrive\ambiente de trabalho\semestre 1\tp2finalmesmo\algoritmo.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"algoritmo.h"
+	"funcao.h"
+	"utils.h"
+
+1702760647 c:\users\frede\onedrive\ambiente de trabalho\semestre 1\tp2finalmesmo\funcao.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"algoritmo.h"
+	"funcao.h"
+	"utils.h"
+
+1702760668 c:\users\frede\onedrive\ambiente de trabalho\semestre 1\tp2finalmesmo\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1702760427 source:c:\users\frede\onedrive\ambiente de trabalho\semestre 1\tp2finalmesmo\algoritmo_evolutivo.c
+	"algoritmo_evolutivo.h"
+	"utils_evolutivo.h"
+
+1702760625 c:\users\frede\onedrive\ambiente de trabalho\semestre 1\tp2finalmesmo\algoritmo_evolutivo.h
+
+1702760704 c:\users\frede\onedrive\ambiente de trabalho\semestre 1\tp2finalmesmo\utils_evolutivo.h
+
+1702760452 source:c:\users\frede\onedrive\ambiente de trabalho\semestre 1\tp2finalmesmo\funcao.c
+	<stdbool.h>
+	"funcao.h"
+
+1702760526 source:c:\users\frede\onedrive\ambiente de trabalho\semestre 1\tp2finalmesmo\utils.c
+	"utils.h"
+
+1702760550 source:c:\users\frede\onedrive\ambiente de trabalho\semestre 1\tp2finalmesmo\utils_evolutivo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"algoritmo_evolutivo.h"
+	"utils_evolutivo.h"
+	"utils.h"
+
+1702760486 source:c:\users\frede\onedrive\ambiente de trabalho\semestre 1\tp2finalmesmo\funcao_evolutivo.c
+	<stdbool.h>
+	"algoritmo_evolutivo.h"
+	"funcao_evolutivo.h"
+	"utils_evolutivo.h"
+
+1702760959 c:\users\frede\onedrive\ambiente de trabalho\semestre 1\tp2finalmesmo\funcao_evolutivo.h
+	"funcao.h"
+
+1702766597 source:c:\users\frede\onedrive\ambiente de trabalho\semestre 1\tp2finalmesmo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"algoritmo.h"
+	"algoritmo_evolutivo.h"
+	"utils.h"
+	"utils_evolutivo.h"
+	"funcao_evolutivo.h"
+
+1702853996 source:c:\users\luccas\downloads\tp2finalmesmo\algoritmo.c
+	"algoritmo.h"
+
+1702769436 c:\users\luccas\downloads\tp2finalmesmo\algoritmo.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"algoritmo.h"
+	"funcao.h"
+	"utils.h"
+
+1702769570 c:\users\luccas\downloads\tp2finalmesmo\funcao.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"algoritmo.h"
+	"funcao.h"
+	"utils.h"
+
+1702769790 c:\users\luccas\downloads\tp2finalmesmo\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1702829488 source:c:\users\luccas\downloads\tp2finalmesmo\algoritmo_evolutivo.c
+	"algoritmo_evolutivo.h"
+	"utils_evolutivo.h"
+
+1702769520 c:\users\luccas\downloads\tp2finalmesmo\algoritmo_evolutivo.h
+
+1702769854 c:\users\luccas\downloads\tp2finalmesmo\utils_evolutivo.h
+
+1702854769 source:c:\users\luccas\downloads\tp2finalmesmo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"algoritmo.h"
+	"algoritmo_evolutivo.h"
+	"utils.h"
+	"utils_evolutivo.h"
+	"funcao_evolutivo.h"
+
+1702769752 c:\users\luccas\downloads\tp2finalmesmo\funcao_evolutivo.h
+	"funcao.h"
+
+1702769024 source:c:\users\luccas\downloads\tp2finalmesmo\funcao.c
+	<stdbool.h>
+	"funcao.h"
+
+1702773598 source:c:\users\luccas\downloads\tp2finalmesmo\funcao_evolutivo.c
+	<stdbool.h>
+	"algoritmo_evolutivo.h"
+	"funcao_evolutivo.h"
+	"utils_evolutivo.h"
+
+1702769324 source:c:\users\luccas\downloads\tp2finalmesmo\utils.c
+	"utils.h"
+
+1702773974 source:c:\users\luccas\downloads\tp2finalmesmo\utils_evolutivo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"algoritmo_evolutivo.h"
+	"utils_evolutivo.h"
+	"utils.h"
+
+1702854836 source:c:\users\luccas\desktop\iia_luccasgalvan2022100410_fredericoquelhas_2022135081\projeto_ia_luccas_fred\algoritmo.c
+	"algoritmo.h"
+
+1702769436 c:\users\luccas\desktop\iia_luccasgalvan2022100410_fredericoquelhas_2022135081\projeto_ia_luccas_fred\algoritmo.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"algoritmo.h"
+	"funcao.h"
+	"utils.h"
+
+1702769570 c:\users\luccas\desktop\iia_luccasgalvan2022100410_fredericoquelhas_2022135081\projeto_ia_luccas_fred\funcao.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"algoritmo.h"
+	"funcao.h"
+	"utils.h"
+
+1702769790 c:\users\luccas\desktop\iia_luccasgalvan2022100410_fredericoquelhas_2022135081\projeto_ia_luccas_fred\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1702829488 source:c:\users\luccas\desktop\iia_luccasgalvan2022100410_fredericoquelhas_2022135081\projeto_ia_luccas_fred\algoritmo_evolutivo.c
+	"algoritmo_evolutivo.h"
+	"utils_evolutivo.h"
+
+1702769520 c:\users\luccas\desktop\iia_luccasgalvan2022100410_fredericoquelhas_2022135081\projeto_ia_luccas_fred\algoritmo_evolutivo.h
+
+1702769854 c:\users\luccas\desktop\iia_luccasgalvan2022100410_fredericoquelhas_2022135081\projeto_ia_luccas_fred\utils_evolutivo.h
+
+1702769024 source:c:\users\luccas\desktop\iia_luccasgalvan2022100410_fredericoquelhas_2022135081\projeto_ia_luccas_fred\funcao.c
+	<stdbool.h>
+	"funcao.h"
+
+1702902617 source:c:\users\luccas\desktop\iia_luccasgalvan2022100410_fredericoquelhas_2022135081\projeto_ia_luccas_fred\funcao_evolutivo.c
+	<stdbool.h>
+	"algoritmo_evolutivo.h"
+	"funcao_evolutivo.h"
+	"utils_evolutivo.h"
+
+1702769752 c:\users\luccas\desktop\iia_luccasgalvan2022100410_fredericoquelhas_2022135081\projeto_ia_luccas_fred\funcao_evolutivo.h
+	"funcao.h"
+
+1702902668 source:c:\users\luccas\desktop\iia_luccasgalvan2022100410_fredericoquelhas_2022135081\projeto_ia_luccas_fred\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"algoritmo.h"
+	"algoritmo_evolutivo.h"
+	"utils.h"
+	"utils_evolutivo.h"
+	"funcao_evolutivo.h"
+
+1702769324 source:c:\users\luccas\desktop\iia_luccasgalvan2022100410_fredericoquelhas_2022135081\projeto_ia_luccas_fred\utils.c
+	"utils.h"
+
+1702773974 source:c:\users\luccas\desktop\iia_luccasgalvan2022100410_fredericoquelhas_2022135081\projeto_ia_luccas_fred\utils_evolutivo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"algoritmo_evolutivo.h"
+	"utils_evolutivo.h"
+	"utils.h"
+

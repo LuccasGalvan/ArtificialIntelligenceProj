@@ -1,0 +1,42 @@
+Trabalho Prático de IA - TP1
+
+- Ambiente
+	- Grelha bidimensional toroidal
+		- Composta por:
+			-Células Pretas
+			-Células Castanhas (alimento de pouco porte) / Quantidade: 0% - 20%(Utilizador tem de escolher)
+			-Células Vermelhas (alimento de grande porte) / Quantidade: 0% - 10% (Utilizador tem de escolher)
+			-Células Azul  / Quantidade: 0% - 5% (Utilizador tem de escolher)
+
+	- Após comer o alimento grande deverá se rtransformado num alimento de pouco porte.
+	-Quando o alimento de peqeuno porte for comido ele deve ser transformado em uma célula preta (die).
+	-A energia ganha dos alimentos deve ser configurável: 1 (pequeno porte) e 50 (grande porte).
+	- Alimentos de pequeno porte devem reaparecer aleatoriamente de forma que os níveis fiquem constantes.
+
+- Agentes
+	- Tipos:
+		-Leões. (Quantidade Configurável pelo utilizador)
+		-Hienas. (Quantidade Configurável pelo utilizador)
+	-Deverá ser associado um valor de energia para os agentes
+	- Na criação os agentes recebem um valor inicial de energia.
+	- Na criação os agentes hienas devem receber um nível de agrupamento igual a 1.
+	- Em cada iteração (tick) os agentes perderão a quant de energia correspondente à ação que realizarem.
+	- Se não tiver energia, morrem
+	
+	-AGENTES LEÕES
+		Perceções - Frente, Direita e Esquerda.
+		Ações - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
